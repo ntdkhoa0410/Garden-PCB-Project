@@ -1,4 +1,4 @@
-![image](https://github.com/ntdkhoa0410/garden_pcb_project/assets/63006481/c4062067-c507-4979-ab1b-b71fd4713d20)## **Background:**
+## **Background:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello world, as I am new to PCB hardware design, a friend (a senpai) of mine has a garden and is planning to turn his garden into a smart garden, so he gave me requirement design and I will design and make the PCB for him. And I thought it would be a good idea to share my approach, my way of learning of how to be a complete beginner to how to be able to design a PCB full-fledge.
 
@@ -109,7 +109,18 @@
 
 # PCB Design
 
-The power management module:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The components of the same module / purpose are placed closed together to reduce noise, emi... (for example bypass capacitor of an IC). When designing PCB, remember to use suitable trace width and via width for their current.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The power management module:
 
 ![image](https://github.com/ntdkhoa0410/garden_pcb_project/assets/63006481/614da038-a0f6-4f3f-9867-d18b95f885c3)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The relay control module:
+
+![image](https://github.com/ntdkhoa0410/garden_pcb_project/assets/63006481/cde3183b-324d-4e64-b031-797abbf4ef5a)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The main controller module:
+
+![image](https://github.com/ntdkhoa0410/garden_pcb_project/assets/63006481/d139e983-d4e3-4e5a-9261-209c0d5d7557)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The boards are currently being manufactured, I will update this document later! Hope it helps you guys somehow, and feedbacks are welcome
