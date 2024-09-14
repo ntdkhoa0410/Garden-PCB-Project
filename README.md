@@ -105,7 +105,8 @@
 1. The MOSFET to control the fan needs to have two resistors: one pull-down resistor (R12) ensures the state of the MOSFET. One resistor (R11) to protect the optoisolator from the current surge from the MOSFET. Detail explanation [here](https://www.youtube.com/watch?v=Wd6NzCY3NgI&t=409s).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schematic of the board:
-![image](https://github.com/ntdkhoa0410/garden_pcb_project/assets/63006481/71ee5109-200f-400f-96dc-45b73efa941a)
+![image](https://github.com/user-attachments/assets/2065faee-ed14-45f9-b3c6-a729a530be7b)
+
 
 # PCB Design
 
